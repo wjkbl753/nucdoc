@@ -22,9 +22,9 @@
 
 需求xmid：[毕业设计选题系统.xmind](jar/毕业设计选题系统.xmind)
 
-pd图下载: [中北.pdm](jar/中北.pdm)
+pd图: [中北.pdm](jar/中北.pdm)
 
-数据库脚本下载: [nuc.sql](jar/nuc.sql)
+数据库脚本: [nuc.sql](jar/nuc.sql)
 
 项目地址:[https://gitee.com/wjkbl753/nuc](https://gitee.com/wjkbl753/nuc)
 
