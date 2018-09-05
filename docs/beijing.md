@@ -20,11 +20,11 @@
 
 本系统将围绕以上核心功能开发，具体详细功能需要下载
 
-需求xmid：[毕业设计选题系统.xmind](jar/毕业设计选题系统.xmind)
+需求xmid：[毕业设计选题系统.xmind](jar/毕业设计选题系统.xmind ':ignore')
 
-pd图: [中北.pdm](jar/中北.pdm)
+pd图: [中北.pdm](jar/中北.pdm ':ignore')
 
-数据库脚本: [nuc.sql](jar/nuc.sql)
+数据库脚本: [nuc.sql](jar/nuc.sql ':ignore')
 
 项目地址:[https://gitee.com/wjkbl753/nuc](https://gitee.com/wjkbl753/nuc)
 
